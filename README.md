@@ -1,6 +1,7 @@
 # AlcoholMeasurementer
 
 ###English
+
 This program is to calculate the decomposition rate of alcohol ingested.
 
 1.Please enter your weight.
@@ -12,9 +13,9 @@ This program is to calculate the decomposition rate of alcohol ingested.
 4.The result file is created in the same hierarchy as the .exe file.
 
 #example
-50(kg)
-5(%)
-350(ml)
+
+50(kg) 5(%) 350(ml)
+
 2.80(hour)
 
 
@@ -32,7 +33,7 @@ This program is to calculate the decomposition rate of alcohol ingested.
 
 
 #example
-50(kg)
-5(%)
-350(ml)
+
+50(kg) 5(%) 350(ml)
+
 2.80(hour)
