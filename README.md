@@ -11,11 +11,12 @@ This program is to calculate the decomposition rate of alcohol ingested.
 
 4.The result file is created in the same hierarchy as the .exe file.
 
-***example
+#example
 50(kg)
 5(%)
 350(ml)
-2.80(h)
+2.80(hour)
+
 
 ###Japanese
 
@@ -30,8 +31,8 @@ This program is to calculate the decomposition rate of alcohol ingested.
 4..exeファイルと同階層に結果のファイルが作成されます。
 
 
-***example
+#example
 50(kg)
 5(%)
 350(ml)
-2.80(h)
+2.80(hour)
