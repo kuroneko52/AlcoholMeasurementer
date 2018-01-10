@@ -37,3 +37,13 @@ This program is to calculate the decomposition rate of alcohol ingested.
 50(kg) 5(%) 350(ml)
 
 2.80(hour)
+
+ストロングゼロ(500ml)とテキーラのショット3.75杯分の比較
+
+50(kg) 9(%) 500(ml)
+
+7.20(hour)
+
+50(kg) 40(%) 112.5(ml)
+
+7.17(hour)
