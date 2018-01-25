@@ -10,18 +10,18 @@ using namespace std;
 
 int main()
 {
-	int   drinkingAmount;	//ˆùğ—Ê
+	int   drinkingAmount;	//é£²é…’é‡
 	double Weight, Alcohol, DaPh, Frequency, DaTime;
 	char *answer;
 	FILE *fp;
 
-	cout << "‘Ìd(kg):";
+	cout << "ä½“é‡(kg):";
 	cin >> Weight;
 
-	cout << "“x”(%):";
+	cout << "åº¦æ•°(%):";
 	cin >> Frequency;
 
-	cout << "Ûæ—Ê(ml):";
+	cout << "æ‘‚å–é‡(ml):";
 	cin >> drinkingAmount;
 	cout << "\n";
 
@@ -30,10 +30,10 @@ int main()
 		return EXIT_FAILURE;
 	}
 
-	DaPh = Weight * WEIGHT_DIVISION_CONSTANT;	//•ª‰ğ‚Å‚«‚éƒƒAƒ‹ƒR[ƒ‹—Ê/h
-	Alcohol = (Frequency / 100) * drinkingAmount * ALCOHOL_SPECIFIC;	//ƒƒAƒ‹ƒR[ƒ‹—Ê
+	DaPh = Weight * WEIGHT_DIVISION_CONSTANT;	//åˆ†è§£ã§ãã‚‹ç´”ã‚¢ãƒ«ã‚³ãƒ¼ãƒ«é‡/h
+	Alcohol = (Frequency / 100) * drinkingAmount * ALCOHOL_SPECIFIC;	//ç´”ã‚¢ãƒ«ã‚³ãƒ¼ãƒ«é‡
 
-	DaTime = Alcohol / DaPh;	//ƒAƒ‹ƒR[ƒ‹•ª‰ğŠÔ
+	DaTime = Alcohol / DaPh;	//ã‚¢ãƒ«ã‚³ãƒ¼ãƒ«åˆ†è§£æ™‚é–“
 
 	cout << "\n";
 
