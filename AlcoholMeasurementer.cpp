@@ -9,7 +9,7 @@ using namespace std;
 
 #define ALCOHOL_SPECIFIC 0.8
 #define WEIGHT_DIVISION_CONSTANT 0.1
-#define FILE_NAME "alc.txt"
+#define FILE_NAME "Result.txt"
 
 int main()
 {
